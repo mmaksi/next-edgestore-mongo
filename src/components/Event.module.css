@@ -1,0 +1,7 @@
+.upload__container {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  margin: 6rem;
+  gap: 2px;
+}
